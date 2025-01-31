@@ -1,5 +1,7 @@
+# This is a fork, it may be not up to date.
+
 # How to watch?
-Copy the raw playlist link [here](https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u) to your player/IPTV client (VLC, PotPlayer, TiviMate, iSTB,...)
+Copy the raw playlist link [here](https://raw.githubusercontent.com/HadesXR-Git/iptv-jp-sfw/refs/heads/main/jp.m3u) to your player/IPTV client (VLC, PotPlayer, TiviMate, iSTB,...)
 
 # Infomation
 
