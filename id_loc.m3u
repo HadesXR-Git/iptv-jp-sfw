@@ -1,67 +1,67 @@
 #EXTM3U
-#EXTINF:0,TVRI Nasional
+#EXTINF:0 group-title="TVRI" tvg-id="tvri_nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png",TVRI Nasional
 http://192.168.18.52:8999/stream=8.ts
-#EXTINF:0,TVRI JAWA TIMUR
+#EXTINF:0 group-title="TVRI" tvg-id="tvri_jatim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TVRI_Jawa_Timur_2023.svg/960px-TVRI_Jawa_Timur_2023.svg.png",TVRI Jawa Timur
 http://192.168.18.52:8999/stream=14.ts
-#EXTINF:0,TVRI World
+#EXTINF:0 group-title="TVRI" tvg-id="tvri_kanal3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TVRI_Jawa_Timur_2023.svg/960px-TVRI_Jawa_Timur_2023.svg.png",TVRI World
 http://192.168.18.52:8999/stream=15.ts
-#EXTINF:0,TVRI Sport HD
+#EXTINF:0 group-title="TVRI" tvg-id="tvri_sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/640px-TVRI_Sport_2022.svg.png",TVRI Sport
 http://192.168.18.52:8999/stream=9.ts
-#EXTINF:0,BATU TV
+#EXTINF:0 group-title="Local Jatim-2" tvg-id="regional_batutv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png",BATU TV
 http://192.168.18.52:8999/stream=12.ts
-#EXTINF:0,ATV DISKOMINFO HD
+#EXTINF:0 group-title="Local Jatim-2" tvg-id="regional_atvbatu" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5e/Logo_Agropolitan_TV_2022.png/960px-Logo_Agropolitan_TV_2022.png",ATV Diskominfo Batu
 http://192.168.18.52:8999/stream=13.ts
-#EXTINF:0,IRSI TV
+#EXTINF:0 group-title="Local Jatim-2" tvg-id="regional_irsitv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c3/Logo_dari_Itv_Malang.jpg",IRSI TV
 http://192.168.18.52:8999/stream=11.ts
-#EXTINF:0,DHAMMA TV
+#EXTINF:0 group-title="Local Jatim-2" tvg-id="regional_dhammatv" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png",Dhamma TV
 http://192.168.18.52:8999/stream=10.ts
-#EXTINF:0,GAJAYANA TV
+#EXTINF:0 group-title="Local Jatim-2" tvg-id="regional_gajayanatv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a7/Gajayana_TV.jpeg/250px-Gajayana_TV.jpeg",Gajayana TV
 http://192.168.18.52:8999/stream=7.ts
-#EXTINF:0,JTV
+#EXTINF:0 group-title="Local Jatim-2" tvg-id="regional_jtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/960px-JTV_%28Indonesian_TV_channel%29_2022.svg.png",JTV Rek!
 http://192.168.18.52:8999/stream=18.ts
-#EXTINF:0,MDTV
+#EXTINF:0 group-title="National" tvg-id="national_mdtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/640px-MDTV_logo.svg.png",MDTV
 http://192.168.18.52:8999/stream=23.ts
-#EXTINF:0,GARUDA TV
+#EXTINF:0 group-title="General" tvg-id="tvri_kanal3" tvg-logo="_",Garuda TV
 http://192.168.18.52:8999/stream=20.ts
-#EXTINF:0,CNBC INDONESIA HD
+#EXTINF:0 group-title="News" tvg-id="transmedia_cnbc" tvg-logo="_",CNBC Indonesia
 http://192.168.18.52:8999/stream=28.ts
-#EXTINF:0,CNN INDONESIA HD 
+#EXTINF:0 group-title="News" tvg-id="transmedia_cnn" tvg-logo="_",CNN Indonesia 
 http://192.168.18.52:8999/stream=27.ts
-#EXTINF:0,TRANS TV HD
+#EXTINF:0 group-title="General" tvg-id="transmedia_ttv" tvg-logo="_",Trans TV
 http://192.168.18.52:8999/stream=31.ts
-#EXTINF:0,TRANS 7 HD
+#EXTINF:0 group-title="General" tvg-id="transmedia_tv7" tvg-logo="_",Trans 7
 http://192.168.18.52:8999/stream=32.ts
-#EXTINF:0,METRO TV HD
+#EXTINF:0 group-title="News" tvg-id="mgn_metrotv" tvg-logo="_",Metro TV
 http://192.168.18.52:8999/stream=21.ts
-#EXTINF:0,SCTV HD
+#EXTINF:0 group-title="General" tvg-id="emtek_sctv" tvg-logo="_",SCTV
 http://192.168.18.52:8999/stream=2.ts
-#EXTINF:0,INDOSIAR HD
+#EXTINF:0 group-title="General" tvg-id="emtek_indosiar" tvg-logo="_",Indosiar
 http://192.168.18.52:8999/stream=3.ts
-#EXTINF:0,RTV HD
+#EXTINF:0 group-title="General" tvg-id="nat_rtv" tvg-logo="_",rtv
 http://192.168.18.52:8999/stream=16.ts
-#EXTINF:0,ANTV HD
+#EXTINF:0 group-title="General" tvg-id="viva_antv" tvg-logo="_",antv
 http://192.168.18.52:8999/stream=26.ts
-#EXTINF:0,TVONE HD
+#EXTINF:0 group-title="News" tvg-id="viva_tvone" tvg-logo="_",tvOne
 http://192.168.18.52:8999/stream=25.ts
-#EXTINF:0,RCTI
+#EXTINF:0 group-title="General" tvg-id="mnc_rcti" tvg-logo="_",RCTI
 http://192.168.18.52:8999/stream=33.ts
-#EXTINF:0,MNCTV 
+#EXTINF:0 group-title="General" tvg-id="mnc_mnctv" tvg-logo="_",MNCTV 
 http://192.168.18.52:8999/stream=34.ts
-#EXTINF:0,GTV
+#EXTINF:0 group-title="General" tvg-id="mnc_gtv" tvg-logo="_",GTV
 http://192.168.18.52:8999/stream=35.ts
-#EXTINF:0,iNews
+#EXTINF:0 group-title="News" tvg-id="mnc_inews" tvg-logo="_",iNews
 http://192.168.18.52:8999/stream=36.ts
-#EXTINF:0,MOJI HD
+#EXTINF:0 group-title="Sport" tvg-id="emtek_moji" tvg-logo="_",moji
 http://192.168.18.52:8999/stream=4.ts
-#EXTINF:0,MENTARI HD
+#EXTINF:0 group-title="Kids" tvg-id="emtek_mentaritv" tvg-logo="_",Mentari TV
 http://192.168.18.52:8999/stream=5.ts
-#EXTINF:0,VTV HD
+#EXTINF:0 group-title="Kids" tvg-id="viva_vtv" tvg-logo="_",VTV
 http://192.168.18.52:8999/stream=22.ts
-#EXTINF:0,NUSANTARA TV
+#EXTINF:0 group-title="News" tvg-id="mgn_magnachannel" tvg-logo="_",Nusantara TV - Magna Channel
 http://192.168.18.52:8999/stream=17.ts
-#EXTINF:0,BN TV
+#EXTINF:0 group-title="News" tvg-id="mgn_bnchannel" tvg-logo="_",BN TV
 http://192.168.18.52:8999/stream=19.ts
-#EXTINF:0,KOMPASTV HD
+#EXTINF:0 group-title="News" tvg-id="national_kompastv" tvg-logo="_",KompasTV
 http://192.168.18.52:8999/stream=6.ts
-#EXTINF:0,StaraTV
+#EXTINF:0 group-title="Local Jatim-2" tvg-id="regional_staratv" tvg-logo="_",StaraTV
 http://192.168.18.52:8999/stream=30.ts
