@@ -3,7 +3,7 @@
 http://192.168.18.52:8999/stream=8.ts
 #EXTINF:0 group-title="TVRI" tvg-id="tvri_jatim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TVRI_Jawa_Timur_2023.svg/960px-TVRI_Jawa_Timur_2023.svg.png",TVRI Jawa Timur
 http://192.168.18.52:8999/stream=14.ts
-#EXTINF:0 group-title="TVRI" tvg-id="tvri_kanal3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TVRI_Jawa_Timur_2023.svg/960px-TVRI_Jawa_Timur_2023.svg.png",TVRI World
+#EXTINF:0 group-title="TVRI" tvg-id="tvri_kanal3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/640px-TVRI-World.svg.png",TVRI World
 http://192.168.18.52:8999/stream=15.ts
 #EXTINF:0 group-title="TVRI" tvg-id="tvri_sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/640px-TVRI_Sport_2022.svg.png",TVRI Sport
 http://192.168.18.52:8999/stream=9.ts
@@ -19,49 +19,49 @@ http://192.168.18.52:8999/stream=10.ts
 http://192.168.18.52:8999/stream=7.ts
 #EXTINF:0 group-title="Local Jatim-2" tvg-id="regional_jtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/960px-JTV_%28Indonesian_TV_channel%29_2022.svg.png",JTV Rek!
 http://192.168.18.52:8999/stream=18.ts
-#EXTINF:0 group-title="National" tvg-id="national_mdtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/640px-MDTV_logo.svg.png",MDTV
+#EXTINF:0 group-title="Drama & Reality" tvg-id="national_mdtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/640px-MDTV_logo.svg.png",MDTV
 http://192.168.18.52:8999/stream=23.ts
-#EXTINF:0 group-title="General" tvg-id="tvri_kanal3" tvg-logo="_",Garuda TV
+#EXTINF:0 group-title="News" tvg-id="national_garudatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/640px-Logo_GarudaTV_Primer_Flat_2025.svg.png",Garuda TV
 http://192.168.18.52:8999/stream=20.ts
-#EXTINF:0 group-title="News" tvg-id="transmedia_cnbc" tvg-logo="_",CNBC Indonesia
+#EXTINF:0 group-title="News" tvg-id="transmedia_cnbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CNBC_Indonesia_2024.svg/819px-CNBC_Indonesia_2024.svg.png",CNBC Indonesia
 http://192.168.18.52:8999/stream=28.ts
-#EXTINF:0 group-title="News" tvg-id="transmedia_cnn" tvg-logo="_",CNN Indonesia 
+#EXTINF:0 group-title="News" tvg-id="transmedia_cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/480px-CNN_Indonesia_logo.svg.png",CNN Indonesia 
 http://192.168.18.52:8999/stream=27.ts
-#EXTINF:0 group-title="General" tvg-id="transmedia_ttv" tvg-logo="_",Trans TV
+#EXTINF:0 group-title="Variety & Talkshow" tvg-id="transmedia_ttv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png",Trans TV
 http://192.168.18.52:8999/stream=31.ts
-#EXTINF:0 group-title="General" tvg-id="transmedia_tv7" tvg-logo="_",Trans 7
+#EXTINF:0 group-title="Variety & Talkshow" tvg-id="transmedia_tv7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png",Trans 7
 http://192.168.18.52:8999/stream=32.ts
-#EXTINF:0 group-title="News" tvg-id="mgn_metrotv" tvg-logo="_",Metro TV
+#EXTINF:0 group-title="News" tvg-id="mgn_metrotv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/508px-LogoMetroTV.svg.png",Metro TV
 http://192.168.18.52:8999/stream=21.ts
-#EXTINF:0 group-title="General" tvg-id="emtek_sctv" tvg-logo="_",SCTV
+#EXTINF:0 group-title="Drama & Reality Shows" tvg-id="emtek_sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/960px-SCTV_Logo.svg.png",SCTV
 http://192.168.18.52:8999/stream=2.ts
-#EXTINF:0 group-title="General" tvg-id="emtek_indosiar" tvg-logo="_",Indosiar
+#EXTINF:0 group-title="Infotainment & Celebrity-Focused" tvg-id="emtek_indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png",Indosiar
 http://192.168.18.52:8999/stream=3.ts
-#EXTINF:0 group-title="General" tvg-id="nat_rtv" tvg-logo="_",rtv
+#EXTINF:0 group-title="Kids" tvg-id="nat_rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png",rtv
 http://192.168.18.52:8999/stream=16.ts
-#EXTINF:0 group-title="General" tvg-id="viva_antv" tvg-logo="_",antv
+#EXTINF:0 group-title="Infotainment & Celebrity-Focused" tvg-id="viva_antv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",antv
 http://192.168.18.52:8999/stream=26.ts
-#EXTINF:0 group-title="News" tvg-id="viva_tvone" tvg-logo="_",tvOne
+#EXTINF:0 group-title="News" tvg-id="viva_tvone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png",tvOne
 http://192.168.18.52:8999/stream=25.ts
-#EXTINF:0 group-title="General" tvg-id="mnc_rcti" tvg-logo="_",RCTI
+#EXTINF:0 group-title="Drama & Reality Shows" tvg-id="mnc_rcti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png",RCTI
 http://192.168.18.52:8999/stream=33.ts
-#EXTINF:0 group-title="General" tvg-id="mnc_mnctv" tvg-logo="_",MNCTV 
+#EXTINF:0 group-title="Drama & Reality Shows" tvg-id="mnc_mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/960px-MNCTV_logo_2015.svg.png",MNCTV 
 http://192.168.18.52:8999/stream=34.ts
-#EXTINF:0 group-title="General" tvg-id="mnc_gtv" tvg-logo="_",GTV
+#EXTINF:0 group-title="Drama & Reality Shows" tvg-id="mnc_gtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/960px-GTV_%282017%29.svg.png",GTV
 http://192.168.18.52:8999/stream=35.ts
-#EXTINF:0 group-title="News" tvg-id="mnc_inews" tvg-logo="_",iNews
+#EXTINF:0 group-title="News" tvg-id="mnc_inews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/960px-INews.svg.png",iNews
 http://192.168.18.52:8999/stream=36.ts
-#EXTINF:0 group-title="Sport" tvg-id="emtek_moji" tvg-logo="_",moji
+#EXTINF:0 group-title="Sports" tvg-id="emtek_moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",moji
 http://192.168.18.52:8999/stream=4.ts
-#EXTINF:0 group-title="Kids" tvg-id="emtek_mentaritv" tvg-logo="_",Mentari TV
+#EXTINF:0 group-title="Kids" tvg-id="emtek_mentaritv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/640px-Mentari_TV.svg.png",Mentari TV
 http://192.168.18.52:8999/stream=5.ts
-#EXTINF:0 group-title="Kids" tvg-id="viva_vtv" tvg-logo="_",VTV
+#EXTINF:0 group-title="Kids" tvg-id="viva_vtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/640px-VTV_Indonesia_White_2023.svg.png",VTV
 http://192.168.18.52:8999/stream=22.ts
-#EXTINF:0 group-title="News" tvg-id="mgn_magnachannel" tvg-logo="_",Nusantara TV - Magna Channel
+#EXTINF:0 group-title="News" tvg-id="mgn_magnachannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/640px-VTV_Indonesia_White_2023.svg.png",Nusantara TV - Magna Channel
 http://192.168.18.52:8999/stream=17.ts
-#EXTINF:0 group-title="News" tvg-id="mgn_bnchannel" tvg-logo="_",BN TV
+#EXTINF:0 group-title="News" tvg-id="mgn_bnchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN TV
 http://192.168.18.52:8999/stream=19.ts
-#EXTINF:0 group-title="News" tvg-id="national_kompastv" tvg-logo="_",KompasTV
+#EXTINF:0 group-title="News" tvg-id="national_kompastv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/960px-KOMPAS_TV_%282017%29.svg.png",KompasTV
 http://192.168.18.52:8999/stream=6.ts
-#EXTINF:0 group-title="Local Jatim-2" tvg-id="regional_staratv" tvg-logo="_",StaraTV
+#EXTINF:0 group-title="Local Jatim-2" tvg-id="regional_staratv" tvg-logo="https://stream.staratv.id/logo",StaraTV
 http://192.168.18.52:8999/stream=30.ts
