@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:0,1. TVRI Nasional
+http://192.168.18.52:8999/stream=8.ts
+#EXTINF:0,2. TVRI JAWA TIMUR
+http://192.168.18.52:8999/stream=14.ts
+#EXTINF:0,3. TVRI World
+http://192.168.18.52:8999/stream=15.ts
+#EXTINF:0,4. $TVRI Sport HD
+http://192.168.18.52:8999/stream=9.ts
+#EXTINF:0,5. BATU TV
+http://192.168.18.52:8999/stream=12.ts
+#EXTINF:0,6. ATV DISKOMINFO HD
+http://192.168.18.52:8999/stream=13.ts
+#EXTINF:0,7. IRSI TV
+http://192.168.18.52:8999/stream=11.ts
+#EXTINF:0,8. DHAMMA TV
+http://192.168.18.52:8999/stream=10.ts
+#EXTINF:0,9. GAJAYANA TV
+http://192.168.18.52:8999/stream=7.ts
+#EXTINF:0,10. JTV
+http://192.168.18.52:8999/stream=18.ts
+#EXTINF:0,11. MDTV
+http://192.168.18.52:8999/stream=23.ts
+#EXTINF:0,12. GARUDA TV
+http://192.168.18.52:8999/stream=20.ts
+#EXTINF:0,13. CNBC INDONESIA HD
+http://192.168.18.52:8999/stream=28.ts
+#EXTINF:0,14. CNN INDONESIA HD 
+http://192.168.18.52:8999/stream=27.ts
+#EXTINF:0,15. TRANS TV HD
+http://192.168.18.52:8999/stream=31.ts
+#EXTINF:0,16. TRANS 7 HD
+http://192.168.18.52:8999/stream=32.ts
+#EXTINF:0,17. METRO TV HD
+http://192.168.18.52:8999/stream=21.ts
+#EXTINF:0,18. SCTV HD
+http://192.168.18.52:8999/stream=2.ts
+#EXTINF:0,19. INDOSIAR HD
+http://192.168.18.52:8999/stream=3.ts
+#EXTINF:0,20. RTV HD
+http://192.168.18.52:8999/stream=16.ts
+#EXTINF:0,21. ANTV HD
+http://192.168.18.52:8999/stream=26.ts
+#EXTINF:0,22. TVONE HD
+http://192.168.18.52:8999/stream=25.ts
+#EXTINF:0,23. RCTI
+http://192.168.18.52:8999/stream=33.ts
+#EXTINF:0,24. MNCTV 
+http://192.168.18.52:8999/stream=34.ts
+#EXTINF:0,25. GTV
+http://192.168.18.52:8999/stream=35.ts
+#EXTINF:0,26. iNews
+http://192.168.18.52:8999/stream=36.ts
+#EXTINF:0,27. $MOJI HD
+http://192.168.18.52:8999/stream=4.ts
+#EXTINF:0,28. MENTARI HD
+http://192.168.18.52:8999/stream=5.ts
+#EXTINF:0,29. VTV HD
+http://192.168.18.52:8999/stream=22.ts
+#EXTINF:0,30. NUSANTARA TV
+http://192.168.18.52:8999/stream=17.ts
+#EXTINF:0,31. BN TV
+http://192.168.18.52:8999/stream=19.ts
+#EXTINF:0,32. KOMPASTV HD
+http://192.168.18.52:8999/stream=6.ts
+#EXTINF:0,33. StaraTV
+http://192.168.18.52:8999/stream=30.ts
