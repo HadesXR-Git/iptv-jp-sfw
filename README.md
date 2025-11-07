@@ -1,5 +1,5 @@
 # This is a fork, it may be not up to date.
-A SFW fork of [this] (https://github.com/luongz/iptv-jp) repository 
+A SFW fork of [this] (https://gitflic.ru/project/utako/utako) repository 
 
 # How to watch?
 <<<<<<< HEAD
@@ -15,8 +15,6 @@ Copy the raw playlist link [here](https://raw.githubusercontent.com/luongz/iptv-
 - Please don't open an issues to request a channel. It will be ignored.
 - If you faced any error, please open an issues to report.
 
-# Donation
-We spend 120$/month to maintain the project (Hosting,TV package).
+# Donation (goes to maintainer directly)
 
-https://ko-fi.com/dinhluong
-
+http://paypal.me/Tieptran1970
